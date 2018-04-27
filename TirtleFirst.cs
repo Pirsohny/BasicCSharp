@@ -36,7 +36,7 @@ namespace ConsoleApp2
             Turtle.Move(len * 3);
             Turtle.Turn(30);
             Turtle.Move(len * 3);
-            Turtle.Turn(120);
+            Turtle.Turn(-60);
             Turtle.Move(len * 3);
 
         }
